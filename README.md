@@ -69,7 +69,8 @@ Thanks to the creators of the free quote APIs and open-source libraries that mad
 
 Created by [Robert Parker](https://github.com/rparker122) – feel free to reach out or explore more of my work!
 
-```
+
+
 
 
 
