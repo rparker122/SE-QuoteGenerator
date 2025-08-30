@@ -1,6 +1,5 @@
 
 
-````
 # ✨ Inspirational Quote Generator
 
 A colorful and uplifting **quote generator** built with React. Click a button to receive a randomly generated inspirational quote, displayed with vibrant backgrounds that add a splash of motivation to your day.
@@ -71,6 +70,7 @@ Thanks to the creators of the free quote APIs and open-source libraries that mad
 Created by [Robert Parker](https://github.com/rparker122) – feel free to reach out or explore more of my work!
 
 ```
+
 
 
 
